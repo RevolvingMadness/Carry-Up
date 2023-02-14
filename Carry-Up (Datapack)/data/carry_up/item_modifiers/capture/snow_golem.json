@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{snow_golem:1b}"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["NRN", " P ", "PPP"],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "P": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

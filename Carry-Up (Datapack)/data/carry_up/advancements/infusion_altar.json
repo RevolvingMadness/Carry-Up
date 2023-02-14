@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "carry_up:infusion_altar"
+      }
+    }
+  },
+  "rewards": {
+    "function": "carry_up:infusion_altar/craft"
+  }
+}

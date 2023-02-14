@@ -8,6 +8,6 @@
     }
   },
   "rewards": {
-    "function": "carry_up:craft"
+    "function": "carry_up:tier1/craft"
   }
 }

@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{glow_squid:1b}"
+  }
+]

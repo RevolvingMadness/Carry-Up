@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "chicken",
+    "cooked_chicken",
+    "cod",
+    "cooked_cod",
+    "beef",
+    "cooked_beef",
+    "glow_ink_sac",
+    "leather",
+    "porkchop",
+    "cooked_porkchop",
+    "salmon",
+    "cooked_salmon",
+    "mutton",
+    "cooked_mutton",
+    "rabbit",
+    "rabbit_foot",
+    "rabbit_hide",
+    "cooked_rabbit",
+    "#minecraft:wool",
+    "snowball",
+    "ink_sac",
+    "tropical_fish",
+    "scute",
+    "lead"
+  ]
+}

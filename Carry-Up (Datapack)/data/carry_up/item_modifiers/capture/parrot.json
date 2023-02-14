@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{parrot:1b}"
+  }
+]

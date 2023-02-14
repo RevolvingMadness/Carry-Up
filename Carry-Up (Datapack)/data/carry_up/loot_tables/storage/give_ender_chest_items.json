@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ender_chest",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{carriedUp:1b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

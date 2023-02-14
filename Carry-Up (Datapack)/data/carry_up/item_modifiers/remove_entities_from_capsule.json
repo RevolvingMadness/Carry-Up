@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{allay:0b,axolotl:0b,bat:0b,cat:0b,chicken:0b,cod:0b,cow:0b,donkey:0b,fox:0b,frog:0b,glow_squid:0b,horse:0b,mooshroom:0b,mule:0b,ocelot:0b,parrot:0b,pig:0b,pufferfish:0b,rabbit:0b,salmon:0b,sheep:0b,skeleton_horse:0b,snow_golem:0b,squid:0b,strider:0b,tadpole:0b,tropical_fish:0b,turtle:0b,villager:0b,wandering_trader:0b}"
+  }
+]

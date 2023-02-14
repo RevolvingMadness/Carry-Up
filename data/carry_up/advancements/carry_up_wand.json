@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "Unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "carry_up:carry_up_wand"
+      }
+    }
+  },
+  "rewards": {
+    "function": "carry_up:craft"
+  }
+}

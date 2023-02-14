@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "orientation=down_east": {
+      "model": "minecraft:block/infusion_altar"
+    }
+  }
+}
